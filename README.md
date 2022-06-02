@@ -10,7 +10,9 @@ ING:DARWIN OMAR ALULEMA FLORES
 
 OBJETIVOS GENERALES: Conocer el valor de las corrientes en un cirquito obtener el valor total de las resistencias comprender o aproximar básicamente la localización
 de las fallas
-OBEJETIVOS ESPECIFICOS:Comprender el funcionamiento de la ley de ohms y su mecanismo que tiene en un circuito
+
+OBEJETIVOS ESPECIFICOS:Comprender el funcionamiento de la ley de ohms y su mecanismo que tiene en un circuito.
+
 OBJETIVOS ESPECIFICOS:Obtener valores de cada circuito y el funcionamiento de las resistencias, voltaje y corriente.
 
 MARCO TEORICO
@@ -170,8 +172,16 @@ VIDEO
 
 CONCLUCIONES
 
+-La ley de ohms un uso muy importante de para obtención de valores de los circuitos ya sea para tener un valor del voltaje o obtener valores  de cada resistencia 
+ y manter un voltaje de acorde a nuestro circuito.
+ 
+ -En estos dos capitulos hemos comprendido y analizado porque es necesario aprender a utilizar todas y cada una de las formulas porque es necesario comprender el 
+  funcionamiento de las resistencias y el proposito que hay en cada uno de ellas el poder que se debe poner a cada uno de los circuitos y como varia el voltaje dependiendo de cuantas resistencias sean colocadas y cada bateria posee un material exclusivo para su funcionamiento.
 
 Bibliografía
 
 • Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Pearson Education. 
 http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf 0 comments on commit 73edc1a
+
+RUBRICA
+
