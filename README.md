@@ -227,6 +227,8 @@ entrada es de 5 W?
 
 VIDEO
 
+https://youtu.be/wBYTZ0FlLws
+
 CONCLUCIONES
 
 -La ley de ohms un uso muy importante de para obtención de valores de los circuitos ya sea para tener un valor del voltaje o obtener valores  de cada resistencia 
